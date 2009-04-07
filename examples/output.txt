@@ -1,0 +1,57 @@
+ENVIRONMENT
+
+
+CONTENT_LENGTH=
+
+DOCUMENT_ROOT=/Users/codeofficer/work/rails-metal-profiler/public
+
+HTTP_ACCEPT=text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+HTTP_ACCEPT_CHARSET=ISO-8859-1,utf-8;q=0.7,*;q=0.7
+HTTP_ACCEPT_ENCODING=gzip,deflate
+HTTP_ACCEPT_LANGUAGE=en-us,en;q=0.5
+
+HTTP_CONNECTION=keep-alive
+HTTP_COOKIE=_rails-metal-profiler_session=BAh7BjoPc2Vzc2lvbl9pZCIlNGUyYjA1ZDQ0NDBmNzYzMDE5OTIzNmY5MTNlNDUwZjQ%3D--57fcd2fb7c209b3ccadab98b25e7780dbad2aca1
+HTTP_HOST=profiler.local
+HTTP_KEEP_ALIVE=300
+HTTP_USER_AGENT=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.7) Gecko/2009021906 Firefox/3.0.7
+HTTP_VERSION=HTTP/1.1
+
+PATH_INFO=/
+
+QUERY_STRING=you=4&me+5
+
+REMOTE_ADDR=127.0.0.1
+REMOTE_PORT=65490
+
+REQUEST_METHOD=GET
+REQUEST_PATH=/
+REQUEST_URI=/?you=4&me+5
+
+SERVER_ADDR=127.0.0.1
+SERVER_ADMIN=you@example.com
+SERVER_NAME=profiler.local
+SERVER_PORT=80
+SERVER_PROTOCOL=HTTP/1.1
+SERVER_SOFTWARE=Apache/2.2.9 (Unix) mod_ssl/2.2.9 OpenSSL/0.9.7l DAV/2 PHP/5.2.6 Phusion_Passenger/2.0.4
+TIME_NOW=Sat Mar 07 01:47:54 -0500 2009
+
+_=_
+
+action_controller.request.query_parameters=me 5you4
+action_controller.request.request_parameters=
+action_controller.rescue.request=#<ActionController::Request:0x1f7f00c>
+action_controller.rescue.response=#<ActionController::Response:0x1f7eff8>
+
+rack.errors=#<IO:0x2f7c4>
+rack.input=#<StringIO:0x1f790a8>
+rack.multiprocess=true
+rack.multithread=false
+rack.request.query_hash=me 5you4
+rack.request.query_string=you=4&me+5
+rack.routing_args=actionindexcontrollerhome
+rack.run_once=false
+rack.session.options=expire_afterkey_session_idhttponlytruepath/domain
+rack.session=
+rack.url_scheme=http
+rack.version=01
